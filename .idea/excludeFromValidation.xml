@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExcludeFromValidation">
+    <file url="file://D:/ymm-gz/user-biz/src/main/java/com/ymm/user/bo/impl/UserBoImpl.java" />
+  </component>
+</project>

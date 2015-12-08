@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/ymm-gz/user.iml" filepath="D:/ymm-gz/user.iml" />
+      <module fileurl="file://D:/ymm-gz/user-api/user-api.iml" filepath="D:/ymm-gz/user-api/user-api.iml" />
+      <module fileurl="file://D:/ymm-gz/user-biz/user-biz.iml" filepath="D:/ymm-gz/user-biz/user-biz.iml" />
+      <module fileurl="file://D:/ymm-gz/user-web/user-web.iml" filepath="D:/ymm-gz/user-web/user-web.iml" />
+    </modules>
+  </component>
+</project>
